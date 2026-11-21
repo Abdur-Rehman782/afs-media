@@ -10,7 +10,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto w-full py-24">
 
           <p className="text-pink-500 uppercase tracking-[0.3em] text-xs mb-8">
-            Creative harami PHUDU
+            Creative PRODUCTION AGENCY
           </p>
 
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold leading-[1.05] max-w-5xl">
@@ -20,7 +20,7 @@ const Home = () => {
           </h1>
 
           <p className="text-gray-400 text-lg max-w-xl mt-8 leading-8">
-            AFS LUN MEDIA helps brands, creators and businesses stand out
+            AFS MEDIA helps brands, creators and businesses stand out
             through professional video editing and creative content
             production.
           </p>
